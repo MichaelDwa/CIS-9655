@@ -13,7 +13,7 @@ How Population, age, and GDP affect athletes' performance.
 4.	Identify key patterns that contribute to Olympic success, providing insights into the factors that drive strong performances at the Games.
 
 ## Datasets
-1.	Olympic Summer & Winter Games, 1896-2022 : [3 most recent winter/summer olympics](https://www.kaggle.com/datasets/piterfm/olympic-games-medals-19862018)
+1.	Olympic Summer & Winter Games, 1896-2022 : [3 Most Recent Winter/Summer Olympics](https://www.kaggle.com/datasets/piterfm/olympic-games-medals-19862018)
 2.	GDP by Country : [GDP](https://data.worldbank.org/indicator/ny.gdp.mktp.cd)
 3.	Population, total : [Population](https://data.worldbank.org/indicator/SP.POP.TOTL)
 
