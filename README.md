@@ -4,7 +4,7 @@
 Key factors that influence a country’s or an athlete’s success in the Olympic Games.
 
 ## Hypothesis
-How Population, age, and GDP affect athletes' performance.
+How population, age, and GDP affect athletes performance.
 
 ## Approach
 1.	Analyze the distribution of medals by athlete, sport, and country to identify trends in Olympic success.
