@@ -19,3 +19,7 @@ How Population, age, and GDP affect athletes' performance.
 
 ## Expected Outcome
 By leveraging historical Olympic data, we will explore patterns and trends that contribute to medal-winning performances. Our findings could be used to optimize athlete training programs, national sports policies, and investment strategies for future Olympic participation.
+
+## Tableau Visualizations
+
+[Click here to view Tableau dashboard](https://public.tableau.com/views/olympic_medals_gdp_population/AllYearsOlympicMedals?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
