@@ -1,6 +1,7 @@
 # Olympic Analysis
 
-## Key factors that influence a country’s or an athlete’s success in the Olympic Games.
+## Topic
+Key factors that influence a country’s or an athlete’s success in the Olympic Games.
 
 ## Hypothesis
 How Population, age, and GDP affect athletes' performance.
